@@ -1,0 +1,12 @@
+---
+title: "Group-Project"
+author: "Peiran Chen"
+date: "5/17/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Simulate Data
